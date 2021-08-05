@@ -9,9 +9,16 @@
 
 ```Python version 3.7.9 (default, Aug 31 2020, 17:10:11) [MSC v.1916 64 bit (AMD64)] Version info. sys.version_info(major=3, minor=7, micro=9, releaselevel='final', serial=0)```
 
-1. **```pymongo==3.11.4```**
-2. **```requests==2.25.1```**
-3. **```pandas==1.2.0```**
+1. ```open Anaconda prompt, change file directory path i.e., cd path_to_folder```
+2. **```conda create -n eNamScrapping python=3.7```**
+3. **```conda activate eNamScrapping```**
+4. **```conda install spyder```**
+5. ```pip install -r path_of_requirments.txt```
+6. **```pymongo==3.11.4```**
+7. **```requests==2.25.1```**
+8. **```pandas==1.2.0```**
+9. After above installation type **```spyder```** in Anaconda prompt. Now Spyder IDE will open in sometime.
+10. open **```eNamDataPullClean.py```** in spyder
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Screenshots of works done
