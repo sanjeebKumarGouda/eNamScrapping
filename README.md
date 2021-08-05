@@ -27,4 +27,6 @@
 4. #### **Extracted Cleaned Data_2**
 ![Extracted Cleaned Data](https://github.com/sanjeebKumarGouda/eNamScrapping/blob/main/resources/4.png)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+5. #### **Cleaned Data uploaded to MongoDB**
+![Extracted Cleaned Data](https://github.com/sanjeebKumarGouda/eNamScrapping/blob/main/resources/5.png)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
