@@ -40,7 +40,7 @@ def eNamDataPull(from_date,to_date):
 def dataMapping(df_raw):
     print("Importing data from mongo")
     try:
-        connect = MongoClient("mongodb://hemant:gramoday%40123@3.6.249.31:41027/?authSource=gramoday_new&readPreference=primary&appname=MongoDB%20Compass&ssl=false")
+        connect = MongoClient("Enter your Connection String URI of MongoDB")
         print("Connected successfully!!!")
     except:
         print("Could not connect to MongoDB")
